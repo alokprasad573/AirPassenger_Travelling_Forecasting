@@ -72,11 +72,11 @@ There are no standalone CLI scripts. All logic is contained within FlightUasageF
 
 Environment Variables
 - None required for the current workflow.
-- TODO: Document any future configurable parameters as environment variables (e.g., forecast horizon, paths) if the notebook is parameterized later.
+- Document any future configurable parameters as environment variables (e.g., forecast horizon, paths) if the notebook is parameterized later.
 
 Tests
 - There are currently no automated tests in this repository.
-- TODO: Add lightweight checks, e.g.:
+- Add lightweight checks, e.g.:
   - Verify AirPassengers.csv schema
   - Unit tests for any future refactored functions (if notebook code is modularized into .py files)
 
